@@ -1,7 +1,7 @@
 DocTime ID,Client Name,Parent / System,City,State,Timezone,TZ Abbr,IANA Identifier,UTC Offset (Winter),DST Observed,Site Type,Go-Live Date,Notes,,,,,,,,,,,,,
 320,Timezone site 3,,,,,,America/Denver,,,,,,,,,,,,,,,,,,
 319,Timezone Client 1,,,,,,Pacific/Honolulu,,,,,,,,,,,,,,,,,,
-318,Ludi Ascension Client,,,,,,America/new_york_123,,,,,,,,,,,,,,,,,,
+318,Ludi Ascension Client,,,,,,America/new_york_abc,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
